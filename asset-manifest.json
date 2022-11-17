@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dogapi/static/css/main.1a538066.css",
+    "main.js": "/dogapi/static/js/main.b879036a.js",
+    "index.html": "/dogapi/index.html",
+    "main.1a538066.css.map": "/dogapi/static/css/main.1a538066.css.map",
+    "main.b879036a.js.map": "/dogapi/static/js/main.b879036a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a538066.css",
+    "static/js/main.b879036a.js"
+  ]
+}
